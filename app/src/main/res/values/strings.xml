@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Connect2DB4O </string>
+    <string name="prompt_user">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_port">Port</string>
+    <string name="prompt_server">URL or IP of the DB4O Server</string>
+    <string name="action_sign_in">Try and Connect to DB4O Server</string>
+</resources>
